@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "nornum's site"
+title                    : "Minki's blog"
 title_separator          : "-"
 name                     : "Nornum"
-description              : "An amazing website."
+description              : "for me."
 url                      : "https://nornum.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "BMK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "블로그 제작 중입니다. **틈틈이** 연습하며 만드는 중입니다."
   location         : "Somewhere"
   email            :
   links:
